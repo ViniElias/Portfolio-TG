@@ -117,13 +117,13 @@ Durante o desenvolvimento do projeto, atuei como desenvolvedor frontend e backen
 ## Demonstração do Projeto
 
 <div style="display: flex; gap: 10px; margin-bottom: 10px; justify-content: center">
-  <img src="https://raw.githubusercontent.com/Bug-Busters-F/scrum-academy/main/docs/prototipo-fase-4/home.gif" alt="Home" width="50%">
-  <img src="https://raw.githubusercontent.com/Bug-Busters-F/scrum-academy/main/docs/prototipo-fase-4/exame.gif" alt="Exame" width="50%">
+  <img src="https://raw.githubusercontent.com/Bug-Busters-F/scrum-academy/main/docs/prototipo-fase-4/home.gif" alt="Home" width="100%">
+  <img src="https://raw.githubusercontent.com/Bug-Busters-F/scrum-academy/main/docs/prototipo-fase-4/exame.gif" alt="Exame" width="100%">
 </div>
 
 <div style="display: flex; gap: 10px; justify-content: center">
-  <img src="https://raw.githubusercontent.com/Bug-Busters-F/scrum-academy/main/docs/prototipo-fase-4/resultados.gif" alt="Resultados" width="50%">
-  <img src="https://raw.githubusercontent.com/Bug-Busters-F/scrum-academy/main/docs/prototipo-fase-4/final-total.gif" alt="Final" width="50%">
+  <img src="https://raw.githubusercontent.com/Bug-Busters-F/scrum-academy/main/docs/prototipo-fase-4/resultados.gif" alt="Resultados" width="100%">
+  <img src="https://raw.githubusercontent.com/Bug-Busters-F/scrum-academy/main/docs/prototipo-fase-4/final-total.gif" alt="Final" width="100%">
 </div>
 
 ---
@@ -251,11 +251,11 @@ O projeto exigiu grande resiliência e disciplina, pois precisei dominar conceit
 ## Demonstração do Projeto
 
 <div style="display: flex; gap: 10px; margin-bottom: 10px; justify-content: center">
-  <img src="https://raw.githubusercontent.com/Bug-Busters-F/alfalog/main/docs/gifs/GifSprint1.gif" alt="Home" width="50%">
-  <img src="https://raw.githubusercontent.com/Bug-Busters-F/alfalog/main/docs/gifs/GifSprint2.gif" alt="Home" width="50%">
+  <img src="https://raw.githubusercontent.com/Bug-Busters-F/alfalog/main/docs/gifs/GifSprint1.gif" alt="Home" width="100%">
+  <img src="https://raw.githubusercontent.com/Bug-Busters-F/alfalog/main/docs/gifs/GifSprint2.gif" alt="Home" width="100%">
 </div>
 <div style="display: flex; gap: 10px; margin-bottom: 10px; justify-content: center">
-  <img src="https://raw.githubusercontent.com/Bug-Busters-F/alfalog/main/docs/gifs/GifSprint3.gif" alt="Home" width="50%">
+  <img src="https://raw.githubusercontent.com/Bug-Busters-F/alfalog/main/docs/gifs/GifSprint3.gif" alt="Home" width="100%">
 </div>
 
 ---
@@ -315,9 +315,9 @@ Esse projeto exigiu bastante disciplina e resiliência, pois lidar com regras de
 ## Demonstração do Projeto
 
 <div style="display: flex; gap: 10px; margin-bottom: 10px; justify-content: center">
-  <img src="./docs/gifSprint1.gif" alt="Home" width="50%">
-  <img src="./docs/gifSprint2.gif" alt="Home" width="50%">
+  <img src="./docs/gifSprint1.gif" alt="Home" width="100%">
+  <img src="./docs/gifSprint2.gif" alt="Home" width="100%">
 </div>
 <div style="display: flex; gap: 10px; margin-bottom: 10px; justify-content: center">
-  <img src="./docs/gifSprint3.gif" alt="Home" width="50%">
+  <img src="./docs/gifSprint3.gif" alt="Home" width="100%">
 </div>
