@@ -1,8 +1,8 @@
 # 👨‍💻 Vinicius Elias Carvalho Ribeiro
 
-Sou Técnico de Informática formado pelo Colégio Joseense, atualmente estudante de Análise e Desenvolvimento de Sistemas na Fatec de São José dos Campos, no 5º semestre. Escolhi a Fatec por acreditar que era uma boa opção para construir minha carreira no mercado de trabalho. Tenho interesse na área de programação, particularmente backend e análise de dados, e venho desenvolvendo minhas habilidades em tecnologias como Python, Typescript, React, Node, bancos relacionais e não relacionais, Pacote Office e PowerBI.
+Sou Técnico de Informática formado pelo Colégio Joseense e, atualmente, estou no 5º semestre do curso de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos – Prof. Jessen Vidal. Escolhi a FATEC motivado por sua excelente reputação acadêmica e forte alinhamento com as demandas do mercado, enxergando na instituição a base ideal para consolidar minha carreira na área de tecnologia e inovação. Tenho profundo interesse em programação voltada para o ecossistema de backend e na área de análise de dados, setores nos quais venho aprimorando minhas competências técnicas com tecnologias como Python, TypeScript, React, Node.js, bancos de dados relacionais e não relacionais, além do Pacote Office e PowerBI.
 
-Atualmente não tenho estágio, mas sigo buscando oportunidades profissionais enquanto desenvolvo minhas qualidades técnicas e pessoais através de projetos acadêmicos, aprendendo não só tecnologias, mas habilidades como gestão de equipes e projetos, análise de informações, arquitetura de projetos, comunicação e resolução de conflitos.
+No momento, não possuo experiência prévia em estágio profissional, por isso sigo em busca ativa por oportunidades no mercado de trabalho. Tenho utilizado minha trajetória acadêmica para canalizar esse objetivo, transformando os desafios dos projetos integradores em cenários reais para o desenvolvimento de competências em gestão de equipes, liderança de projetos, arquitetura de software, comunicação corporativa e resolução de conflitos.
 
 ## 📸 Foto
 
@@ -64,35 +64,27 @@ São José dos Campos, SP
 ## Scrum Academy - 2024 - 1º Semestre  
 
 ## Empresa Parceira  
-O projeto foi desenvolvido em parceria com a **FATEC São José dos Campos – Prof. Jessen Vidal**, com o objetivo de desenvolver uma aplicação web que dissemine eficientemente todas as informações relevantes sobre os processos e artefatos da metodologia ágil (SCRUM), de modo que o conteúdo esteja claro e possa ser compreendido por quaisquer usuários. 
+O projeto foi desenvolvido em parceria com a **FATEC São José dos Campos – Prof. Jessen Vidal**. A instituição atuou como cliente acadêmica ao propor o desafio de criar uma ferramenta didática capaz de descentralizar o ensino de metodologias ágeis, tornando o conhecimento acessível e prático para qualquer perfil de usuário.
 
 ## Problema  
-Durante o curso, foi identificado que muitos alunos e profissionais ainda encontravam dificuldades em entender e aplicar a metodologia Scrum de forma prática. Apesar do grande uso do Scrum no mercado, seu aprendizado normalmente é restrito a aulas teóricas ou exemplos pouco dinâmicos. Isso gerava um problema de baixa assimilação dos papéis, cerimônias e artefatos do método ágil, dificultando a transição dos alunos para ambientes de trabalho reais.
+Identificou-se que o ensino do framework Scrum muitas vezes fica restrito a abordagens puramente teóricas ou cenários estáticos, o que dificulta a absorção prática de seus ritos por estudantes. Sem uma vivência dinâmica dos papéis e artefatos, os alunos enfrentavam uma curva de aprendizado complexa ao tentar replicar esses conceitos em ambientes profissionais reais, gerando a necessidade de uma solução que unisse teoria e validação interativa.
 
 ## Solução
-A equipe desenvolveu o Scrum Academy, uma aplicação web interativa e responsiva projetada para modernizar o ensino da metodologia Scrum. O principal objetivo da plataforma foi transformar o aprendizado teórico da metodologia ágil em uma experiência dinâmica e intuitiva, conectando a teoria à simulação prática.
-
+Como resposta a essa demanda, a equipe construiu o **Scrum Academy**, uma plataforma web interativa e com design totalmente responsivo com foco em modernizar a capacitação ágil. O sistema converte os fundamentos teóricos em uma jornada intuitiva, disponibilizando recursos visuais sobre as atribuições do Product Owner, Scrum Master e Development Team. A aplicação conta com páginas explicativas estruturadas, uma interface fluida baseada em Bootstrap e um simulador avaliativo integrado ao backend em Python, permitindo que os usuários validem seus conhecimentos e acompanhem seu progresso.
 
 ## 🔗 Repositório  
 [Scrum Academy (Bug Busters)](https://github.com/Bug-Busters-F/scrum-academy)
 
 ## Tecnologias Utilizadas  
-
-- **HTML5** 
-- **CSS3** 
-- **Bootstrap** 
-- **Python + Flask** 
-- **MySQL**
-- **AWS**
-- **Figma** 
-- **Git + GitHub** 
-- **Visual Studio Code**
-  
+- **HTML5 e CSS3** – Construção estrutural e customização estética das interfaces web.
+- **Bootstrap** – Framework voltado para agilidade no layout e garantia de responsividade.
+- **Python + Flask** – Linguagem e microframework utilizados para estruturar o motor do sistema e gerenciamento de rotas.
+- **MySQL** – Armazenamento seguro das respostas e feedbacks do simulador.
+- **AWS** – Infraestrutura de nuvem selecionada para o deploy e disponibilidade do site.
+- **Figma** – Criação do protótipo de alta fidelidade e estudo de usabilidade.
 
 ## Contribuições Pessoais  
-
 Durante o desenvolvimento do projeto, atuei como desenvolvedor frontend e backend, participando ativamente desde a concepção da identidade visual da plataforma até a sua otimização técnica. Fui o responsável por criar a página dedicada às ferramentas do Scrum e, principalmente, por programar a lógica do exame avaliativo do site. Além disso, trabalhei na manutenção contínua do sistema, realizando a correção de bugs e implementando melhorias de responsividade para garantir uma experiência de usuário fluida e adaptável a diferentes dispositivos.
-
 
 ## Hard Skills  
 
@@ -105,14 +97,8 @@ Durante o desenvolvimento do projeto, atuei como desenvolvedor frontend e backen
 | **Figma** | Criação de protótipos e design de interface | Iniciante |
 | **Metodologias Ágeis (Scrum)** | Planejamento e facilitação das sprints | Intermediário |
 
-
 ## Soft Skills  
-
-**Trabalho em Equipe** - Colaborei com o time de desenvolvimento, garantindo integração eficiente entre front-end e back-end.
-**Comunicação** - Mantive alinhamento constante com os demais membros e com o Product Owner.
-**Organização** - Contribuí na estruturação do repositório e documentação do projeto.
-**Resolução de Problemas** - Atuei ativamente na correção de bugs e otimização de componentes da interface.
-**Proatividade** - Busquei propor melhorias nas funcionalidades e na usabilidade do sistema.
+O desenvolvimento do projeto demandou forte articulação interpessoal, permitindo exercitar competências cruciais de comunicação e colaboração. Ao trabalhar de forma integrada no Dev Team, colaborei diretamente no alinhamento do fluxo entre o frontend e a lógica backend, o que exigiu clareza na exposição de ideias para o grupo e empatia para ouvir as necessidades técnicas dos colegas. Diante de bugs complexos no encadeamento do questionário e na adaptação do layout para celulares, apliquei o foco na resolução de problemas de forma proativa, mantendo o time engajado e organizado para cumprir as entregas de cada sprint sem comprometer o cronograma final do semestre.
 
 ## Demonstração do Projeto
 
@@ -131,35 +117,26 @@ Durante o desenvolvimento do projeto, atuei como desenvolvedor frontend e backen
 ## 🚗 Alplaca – 2024 - 2º Semestre  
 
 ## Empresa Parceira  
-O projeto foi desenvolvido em parceria com a **FATEC São José dos Campos – Prof. Jessen Vidal**, com o objetivo de criar um software para automatizar a extração de informações de documentos.
-
-A FATEC atuou como cliente e parceira acadêmica, propondo o desafio de desenvolver um software para automatizar a extração de informações de documentos usando modelos de linguagem e visão.
+O projeto foi estruturado em cooperação com a **FATEC São José dos Campos – Prof. Jessen Vidal**, atuando em um modelo de laboratório de inovação tecnológica focado em automação industrial e Visão Computacional corporativa.
 
 ## Problema  
-Muitas empresas lidam com milhares de documentos diariamente, como currículos, contas, notas fiscais e assim por diante. Porém, extrair informações destes documentos é uma atividade difícil que depende da atividade humana (mais lenta que computadores) pois apenas retirar o texto pode não ser suficiente visto que as informações dependem do layout visual.
-
-O problema identificado foi a necessidade de uma interface inteligente e intuitiva que permitisse extração de informações de forma fácil e automatizada.
+Muitas organizações logísticas dependem de processos manuais lentos para triagem e registro de veículos em pátios, gerando gargalos operacionais crônicos. A simples extração de texto bruto não resolve essa deficiência, uma vez que as informações dependem da correta interpretação do contexto visual. Diante disso, havia a necessidade de criar uma interface capaz de coletar e automatizar o processamento dessas imagens sem depender da digitação humana.
 
 ## Solução 
-A equipe desenvolveu uma interface gráfica em Java, integrada a modelos de Inteligência Artificial para a automação e extração de dados estruturados. Em vez de depender do processamento puramente textual ou da análise humana, o sistema utiliza o reconhecimento visual para interpretar o layout de imagens e capturar, com precisão, as informações contidas em placas de veículos submetidas pelos usuários. Após a análise computacional e a interpretação dos caracteres, a aplicação consolida e armazena automaticamente todos os dados extraídos em um banco de dados relacional, eliminando gargalos operacionais e transformando registros visuais em informações estruturadas de forma rápida e segura.
+Como resposta a esse desafio, a equipe desenvolveu uma interface gráfica inteligente e intuitiva em Java, integrada a modelos de Inteligência Artificial para a automação e extração de dados estruturados. Em vez de depender do processamento puramente textual ou da análise humana, o sistema utiliza o reconhecimento visual para interpretar o layout de imagens e capturar, com precisão, as informações contidas em placas de veículos submetidas pelos usuários. Após a análise computacional e a interpretação dos caracteres, a aplicação consolida e armazena automaticamente todos os dados extraídos em um banco de dados relacional, eliminando gargalos operacionais e transformando registros visuais em informações estruturadas de forma rápida e segura.
 
 ## 🔗 Repositório
 [Alplaca (Bug Busters)](https://github.com/Bug-Busters-F/alplaca)
 
 ## Tecnologias Utilizadas  
-
-- **Java** 
-- **MySQL**
-- **Ollama**
-- **Figma**
-- **Git + GitHub**
-- **IntelliJ**  
-- **NetBeans**
+- **Java (JavaFX / NetBeans / IntelliJ)** – Ecossistema principal utilizado para construir o núcleo da aplicação desktop e gerenciar as conexões.
+- **MySQL** – Banco de dados relacional utilizado para persistência e indexação das placas identificadas.
+- **Ollama** – Integração local com modelos inteligentes para processamento analítico de imagem.
+- **Figma** – Elaboração de wireframes e mapeamento da experiência do usuário.
+- **Git + GitHub** – Gestão de repositórios, controle de branches e fluxo de integração contínua.
 
 ## Contribuições Pessoais  
-Atuei em uma frente híbrida entre a liderança de equipe e o desenvolvimento técnico, assumindo o papel de **Scrum Master**. Nessa posição, fui responsável por coordenar a administração e organização geral do projeto, facilitando a comunicação interna para garantir o ritmo das entregas. Na parte técnica, liderei o desenvolvimento da interface gráfica em Java e assumi a engenharia de prompts, criando e testando as instruções enviadas à IA para assegurar a máxima precisão no reconhecimento dos dados das placas.
-
-O exercício das minhas soft skills foi fundamental para o sucesso do projeto, exigindo inteligência emocional, mediação e resiliência em momentos críticos. Em um impasse técnico sobre a integração do sistema que ameaçava o cronograma da Sprint, utilizei a escuta ativa para gerenciar o conflito e direcionar o grupo a um consenso produtivo.
+Atuem em uma frente híbrida entre a liderança de equipe e o desenvolvimento técnico, assumindo o papel de **Scrum Master**. Nessa posição, fui responsável por coordenar a administração e organização geral do projeto, facilitando a comunicação interna para garantir o ritmo das entregas. Na parte técnica, liderei o desenvolvimento da interface gráfica em Java e assumi a engenharia de prompts, criando e testando as instruções enviadas à IA para assegurar a máxima precisão no reconhecimento dos dados das placas.
 
 ## Hard Skills  
 
@@ -173,12 +150,7 @@ O exercício das minhas soft skills foi fundamental para o sucesso do projeto, e
 | **Scrum + Metodologias Ágeis** | Planejamento e acompanhamento de sprints | Avançado |
 
 ## Soft Skills  
-
-**Resolução de Problemas** - Superei desafios técnicos na integração de modelos de IA com a interface desktop.
-**Liderança** - Como Scrum Master, coordenei as tarefas e incentivei o engajamento da equipe, mantendo o foco nas metas das sprints.
-**Trabalho em Equipe** - Colaborei ativamente com o time de desenvolvimento para alinhar o front-end às necessidades do back-end.
-**Atenção aos Detalhes** - Garantida através da implementação de testes rigorosos para evitar falhas em dados sensíveis.
-**Adaptabilidade** - Aprendizado rápido de novas ferramentas como o Ollama para atender ao requisito de processamento local.
+O exercício das minhas soft skills foi fundamental para o sucesso do projeto, exigindo inteligência emocional, mediação e resiliência em momentos críticos. Em um impasse técnico sobre a integração do sistema que ameaçava o cronograma da Sprint, utilizei a escuta ativa para gerenciar o conflito e direcionar o grupo a um consenso produtivo. Além disso, quando a IA apresentou instabilidades na leitura de imagens complexas às vésperas da entrega, mantive a calma da equipe sob pressão e liderei uma força-tarefa analítica para refinar os prompts durante a madrugada, transformando o nervosismo do time em foco e garantindo o cumprimento do prazo com alta qualidade.
 
 ## Demonstração do Projeto
 
@@ -189,44 +161,27 @@ O exercício das minhas soft skills foi fundamental para o sucesso do projeto, e
 ## 📊 Alfalog - 2025 - 1º Semestre 
 
 ## Empresa Parceira  
-O projeto Alfalog foi desenvolvido em parceria com o professor **Marcus Nascimento, coordenador do curso de Logística da FATEC São José dos Campos – Prof. Jessen Vidal**.
-
-O objetivo deste projeto foi desenvolver uma plataforma web que disponibilize informações sobre o desempenho dos Estados Brasileiros no comércio exterior, com base nos dados abertos do Ministério do Desenvolvimento, Indústria, Comércio e Serviços.
+O projeto foi concebido em colaboração com o professor **Marcus Nascimento, coordenador do curso de Logística da FATEC São José dos Campos – Prof. Jessen Vidal**. O parceiro atuou como o principal cliente e validador de negócios, trazendo as dores reais do setor de comércio exterior para direcionar o escopo da ferramenta.
 
 ## Problema  
-Economistas, gestores públicos e empresas enfrentam desafios para acompanhar e analisar os resultados do comércio exterior brasileiro de forma eficiente. A dispersão de informações brutas dificulta a identificação de tendências de mercado, impactando negativamente a tomada de decisão ágil baseada em dados reais de importação e exportação.
-
-O problema identificado foi a necessidade de uma plataforma web que permitisse organizar, estruturar e visualizar os dados abertos governamentais de forma clara e acessível, auxiliando na identificação de estados e municípios em ascensão, estagnação ou declínio no mercado internacional.
+Profissionais de economia, analistas de mercado e gestores governamentais enfrentam severos obstáculos para monitorar o comércio de importações e exportações no Brasil devido à extrema fragmentação dos bancos de dados governamentais abertos. A alta dispersão desses registros brutos impede uma leitura ágil do ecossistema mercadológico, ocultando gargalos, estagnações regionais ou tendências de crescimento nos estados e municípios, o que inviabiliza tomadas de decisão ágeis e eficientes baseadas em dados consolidados.
 
 ## Solução Entregue  
-A equipe desenvolveu a Alfalog, uma plataforma interativa de acompanhamento e análise de desempenho no comércio exterior. A ferramenta permite que os tomadores de decisão filtrem informações estratégicas, identifiquem padrões logísticos e visualizem resultados em dashboards interativos baseados nos dados abertos do MDIC.
-
-O sistema foi desenvolvido com uma arquitetura robusta e banco de dados relacional, garantindo a qualidade, limpeza e disponibilidade das informações para análise. Entre as principais funcionalidades estão:
-
-- Visualização de estatísticas detalhadas da balança comercial (importação e exportação) por estado;
-- Exportação de dados e insights estruturados para análises profundas em ferramentas externas (como Excel).
-- Filtros avançados por período histórico (2014-2024), setor econômico, código NCM e meios de transporte;
-- Geração de gráficos, mapas interativos de fluxo de exportação e relatórios de desempenho;
+A equipe desenvolveu a **Alfalog**, uma plataforma interativa de acompanhamento e análise de desempenho no comércio exterior. A ferramenta permite que os tomadores de decisão filtrem informações estratégicas, identifiquem padrões logísticos e visualizem resultados em dashboards interativos baseados nos dados abertos do MDIC. O sistema foi desenvolvido com uma arquitetura robusta e banco de dados relacional, garantindo a qualidade, limpeza e disponibilidade das informações para análise. Entre as principais funcionalidades estão: a visualização de estatísticas detalhadas da balança comercial por estado, filtros avançados por período histórico (2014-2024), setor econômico, código NCM e meios de transporte, além da geração de gráficos, mapas interativos e recursos para exportar dados brutos para ferramentas externas.
 
 ## 🔗 Repositório
 [Alfalog (Bug Busters)](https://github.com/Bug-Busters-F/Alfalog)
 
 ## Tecnologias Utilizadas  
-
-- **React** 
-- **TypeScript** 
-- **Python + Flask**  
-- **MySQL**
-- **HTML5 + CSS3** 
-- **Git + GitHub** 
-- **Visual Studio Code**  
-- **Figma**
-- **Jira**  
+- **React + TypeScript** – Criação de componentes escaláveis e dinâmicos para renderização de painéis analíticos.
+- **Python + Flask** – Desenvolvimento da API e dos scripts estruturados para os processos de ETL (Extração, Transformação e Carga).
+- **MySQL** – Modelagem e execução de queries complexas para tratamento de volumosas bases relacionais.
+- **HTML5 + CSS3** – Estruturação semântica e folha de estilos responsiva para a interface.
+- **Figma** – Prototipagem e design focado na usabilidade de dashboards (UI/UX).
+- **Jira** – Gerenciamento ágil e mapeamento do andamento das tarefas e sprints do grupo.
 
 ## Contribuições Pessoais  
-Atuei como desenvolvedor fullstack no projeto Alfalog, participando ativamente desde a infraestrutura até a interface do sistema. Fui responsável pelo desenvolvimento da página inicial e da página de pesquisa da plataforma, além de trabalhar diretamente no tratamento e na modelagem dos dados brutos do MDIC para o banco de dados relacional. Essa etapa de preparação dos dados foi essencial para garantir que as informações de importação e exportação fossem filtradas e estruturadas corretamente, servindo de base para a geração dos gráficos e relatórios da aplicação.
-
-O projeto exigiu grande resiliência e disciplina, pois precisei dominar conceitos complexos que eram totalmente novos para mim na época, como a manipulação de grandes volumes de dados e a lógica por trás dos códigos NCM e fluxos logísticos. Diante da dificuldade inicial em tratar dados tão extensos e dispersos sem comprometer o desempenho do sistema, mantive o foco nos estudos extra-classe, testando diferentes abordagens de limpeza e otimização de queries até alcançar o resultado esperado. Essa dedicação para superar a curva de aprendizado sob pressão foi fundamental para entregar uma ferramenta de pesquisa funcional e garantir a consistência das informações apresentadas nos dashboards.
+Atuei como desenvolvedor fullstack no projeto Alfalog, participando ativamente desde a infraestrutura até a interface do sistema. Fui responsável pelo desenvolvimento da página inicial e da página de pesquisa da plataforma, além de trabalhar diretamente no tratamento e na modelagem dos dados brutos do MDIC para o banco de dados relacional. Essa etapa de preparação dos dados foi essencial para garantir que as informações de importação e exportação foram filtradas e estruturadas corretamente, servindo de base para a geração dos gráficos e relatórios da aplicação.
 
 ## Hard Skills  
 
@@ -241,12 +196,7 @@ O projeto exigiu grande resiliência e disciplina, pois precisei dominar conceit
 | **Scrum + Metodologias Ágeis** | Planejamento e acompanhamento de sprints | Avançado |
 
 ## Soft Skills  
-
-**Trabalho em Equipe** - Colaborei com o time de desenvolvimento, garantindo integração eficiente entre front-end e back-end.
-**Comunicação** - Mantive alinhamento constante com os demais membros e com o Product Owner.
-**Organização** - Contribuí na estruturação do repositório e documentação do projeto.
-**Resolução de Problemas** - Atuei ativamente na correção de bugs e otimização de componentes da interface.
-**Proatividade** - Busquei propor melhorias nas funcionalidades e na usabilidade do sistema.
+O projeto exigiu grande resiliência e disciplina, pois precisei dominar conceitos complexos que eram totalmente novos para mim na época, como a manipulação de grandes volumes de dados e a lógica por trás dos códigos NCM e fluxos logísticos. Diante da dificuldade inicial em tratar dados tão extensos e dispersos sem comprometer o desempenho do sistema, mantive o foco nos estudos extra-classe, testando diferentes abordagens de limpeza e otimização de queries até alcançar o resultado esperado. Essa dedicação para superar a curva de aprendizado sob pressão foi fundamental para entregar uma ferramenta de pesquisa funcional e garantir a consistência das informações apresentadas nos dashboards.
 
 ## Demonstração do Projeto
 
@@ -263,37 +213,27 @@ O projeto exigiu grande resiliência e disciplina, pois precisei dominar conceit
 ## 📊 ClassiPy - 2025 - 2º Semestre
 
 ## Empresa Parceira  
-O projeto ClassiPy foi desenvolvido como parte do curso de Análise e Desenvolvimento de Sistemas da FATEC São José dos Campos – Prof. Jessen Vidal, em parceria com a **TecSys**.
-
-O objetivo principal foi desenvolver um agente de Inteligência Artificial inovador capaz de automatizar a elaboração da instrução de registro aduaneiro, incorporando de forma inteligente dados críticos como Part-Number, classificação fiscal, fabricante, origem e endereço do fabricante.
+O software foi projetado e desenvolvido em conformidade com as demandas da **TecSys**, empresa atuante no setor logístico e aduaneiro que buscava soluções de transformação digital para rotinas analíticas tributárias complexas.
 
 ## Problema  
-O processo manual de elaboração de registros aduaneiros para materiais produtivos, especialmente na indústria eletroeletrônica, é complexo e suscetível a erros. É necessário relacionar informações como Part-Number, classificação fiscal (NCM), fabricante e origem com endereço completo, gerando uma descrição detalhada do material. Qualquer ambiguidade ou erro nessas informações pode gerar dúvidas para a Receita Federal, acarretando penalidades e multas sobre a declaração do material importado.
+A montagem manual de minutas e registros de importações para insumos da indústria eletrônica é altamente burocrática e vulnerável a falhas operacionais humanas. Vincular corretamente o Part-Number de cada peça aos seus respectivos fabricantes, origens geográficas, endereços e nomenclaturas da classificação fiscal (NCM) exige exaustiva checagem manual. Pequenas divergências, descrições vagas ou omissões nesses campos frequentemente provocam retenções pela Receita Federal, acarretando aplicação de pesadas sanções financeiras e atrasos na cadeia produtiva.
 
 ## Solução
-ClassiPy - Classificação Inteligente de Produtos, é uma aplicação web projetada para resolver o problema, automatizando e otimizando o processo de instrução de registro aduaneiro. A solução permite que o usuário faça o upload de um pedido de compras em formato PDF. A partir do documento, o agente de IA extrai todos os Part-Numbers e, para cada um, realiza uma busca inteligente para sugerir a classificação fiscal completa, incluindo descrição detalhada do produto, NCM, fabricante e mais.
+Para solucionar esse problema, a equipe projetou o **ClassiPy - Classificação Inteligente de Produtos**, um ecossistema web voltado a automatizar e assegurar conformidade na instrução de registros aduaneiros. A plataforma permite a leitura inteligente de ordens de compra emitidas em PDF por meio de agentes inteligentes. O sistema extrai as identificações de peças (Part-Numbers) e executa um cruzamento automatizado para propor a descrição detalhada do material, o código NCM correspondente e dados cadastrais válidos do fabricante. Os dados consolidados passam por um fluxo de validação interativa e o sistema exporta automaticamente um arquivo final em formato de planilha Excel, aderente aos padrões normativos da Receita Federal.
 
 ## 🔗 Repositório  
 [ClassiPy (Bug Busters)](https://github.com/Bug-Busters-F/ClassiPy)
 
 ## Tecnologias Utilizadas  
-
-- **React**  
-- **TypeScript**
-- **PostgreSQL** 
-- **Node.js**
-- **Ollama**
-- **Docker**
-- **Vite**
-- **Python + FastAPI** 
-- **Jira**  
-- **Git + GitHub**
-- **Visual Studio Code** 
+- **React + Vite + TypeScript** – Configuração e desenvolvimento frontend ágil com tipagem estática e reatividade robusta.
+- **Python + FastAPI** – Construção de rotas backend assíncronas e alta performance na comunicação de dados.
+- **PostgreSQL** – Banco de dados relacional robusto escalado para garantir a integridade do histórico aduaneiro.
+- **Ollama** – Gerenciamento local do processamento de linguagem natural e extração inteligente a partir de PDFs.
+- **Docker** – Conteinerização de serviços, unificando os ambientes de execução locais.
+- **Jira** – Gerenciamento ágil com mapeamento de histórias de usuários nas sprints.
 
 ## Contribuições Pessoais  
 Atuei no desenvolvimento do ClassiPy com foco na estruturação do backend e na manipulação de dados para garantir a confiabilidade do processo aduaneiro. Minhas principais responsabilidades envolveram a criação das rotas do CRUD no servidor, assegurando o fluxo correto de armazenamento e edição das informações, e o tratamento dos dados extraídos pela inteligência artificial. Além disso, desenvolvi o código responsável por exportar os dados já validados para planilhas Excel, permitindo que o usuário final gerasse a instrução de registro de forma automatizada e livre de erros manuais.
-
-Esse projeto exigiu bastante disciplina e resiliência, pois lidar com regras de validação estritas e com a formatação precisa de arquivos Excel via código foi um desafio técnico complexo para o meu nível de conhecimento na época. Diante de erros iniciais na organização das colunas e na consistência dos dados tratados, precisei manter o foco, estudar a fundo a documentação das bibliotecas de backend e realizar múltiplos testes de mesa. Essa persistência para entender a lógica de persistência e exportação de dados foi crucial para entregar um sistema seguro e eficaz.
 
 ## Hard Skills  
 
@@ -306,11 +246,7 @@ Esse projeto exigiu bastante disciplina e resiliência, pois lidar com regras de
 | **Scrum + Metodologias Ágeis** | Planejamento e acompanhamento de sprints | Avançado |
 
 ## 💬 Soft Skills  
-
-**Atenção aos Detalhes** - Garanti a precisão na validação de Part Numbers e na formatação rigorosa do arquivo Excel final exigido pela Receita Federal.
-**Resolução de Problemas** - Desenvolvi a lógica de scraping e estruturei fluxos complexos para lidar com dados não estruturados extraídos de PDFs.
-**Trabalho em Equipe** - Colaborei para integrar as funções que desenvolvi no back-end com a interface gráfica do restante do time.
-**Proatividade** - Assumi demandas de ponta a ponta (do scraping no back-end à tela no front-end), garantindo a entrega completa das funcionalidades.
+Esse projeto exigiu bastante disciplina e resiliência, pois lidar com regras de validação estritas e com a formatação precisa de arquivos Excel via código foi um desafio técnico complexo para o meu nível de conhecimento na época. Diante de erros iniciais na organização das colunas e na consistência dos dados tratados, precisei manter o foco, estudar a fundo a documentação das bibliotecas de backend e realizar múltiplos testes de mesa. Essa persistência para entender a lógica de persistência e exportação de dados foi crucial para entregar um sistema seguro e eficaz.
 
 ## Demonstração do Projeto
 
