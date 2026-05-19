@@ -98,7 +98,10 @@ Durante o desenvolvimento do projeto, atuei como desenvolvedor frontend e backen
 | **Metodologias Ágeis (Scrum)** | Planejamento e facilitação das sprints | Intermediário |
 
 ## Soft Skills  
-O desenvolvimento do projeto demandou forte articulação interpessoal, permitindo exercitar competências cruciais de comunicação e colaboração. Ao trabalhar de forma integrada no Dev Team, colaborei diretamente no alinhamento do fluxo entre o frontend e a lógica backend, o que exigiu clareza na exposição de ideias para o grupo e empatia para ouvir as necessidades técnicas dos colegas. Diante de bugs complexos no encadeamento do questionário e na adaptação do layout para celulares, apliquei o foco na resolução de problemas de forma proativa, mantendo o time engajado e organizado para cumprir as entregas de cada sprint sem comprometer o cronograma final do semestre.
+- **Trabalho em Equipe** - Atuei em estreita colaboração com o time de desenvolvimento, garantindo o alinhamento de metas e a integração eficiente entre as camadas de front-end e back-end.
+- **Comunicação Assertiva** - Mantive diálogos claros com os integrantes do grupo e com o Product Owner, facilitando a divisão de tarefas e evitando retrabalhos.
+- **Resolução de Problemas** - Identifiquei falhas no fluxo lógico do questionário avaliativo e agi de forma proativa para propor correções rápidas na interface.
+- **Flexibilidade** - Na metade do período do projeto, o cliente apresentou novos requisitos importantes para o produto, o que me obrigou a me adaptar e recalcular as tarefas para conseguir realizar as entregas dentro do prazo.
 
 ## Demonstração do Projeto
 
@@ -150,7 +153,9 @@ Atuem em uma frente híbrida entre a liderança de equipe e o desenvolvimento t�
 | **Scrum + Metodologias Ágeis** | Planejamento e acompanhamento de sprints | Avançado |
 
 ## Soft Skills  
-O exercício das minhas soft skills foi fundamental para o sucesso do projeto, exigindo inteligência emocional, mediação e resiliência em momentos críticos. Em um impasse técnico sobre a integração do sistema que ameaçava o cronograma da Sprint, utilizei a escuta ativa para gerenciar o conflito e direcionar o grupo a um consenso produtivo. Além disso, quando a IA apresentou instabilidades na leitura de imagens complexas às vésperas da entrega, mantive a calma da equipe sob pressão e liderei uma força-tarefa analítica para refinar os prompts durante a madrugada, transformando o nervosismo do time em foco e garantindo o cumprimento do prazo com alta qualidade.
+- **Mediação de Conflitos** - Utilizei a escuta ativa para neutralizar um impasse técnico sobre a arquitetura do sistema, direcionando a equipe a um consenso focado em prazos.
+- **Inteligência Emocional** - Mantive o controle sob forte pressão externa e estabilizei o nervosismo do time diante de falhas críticas apresentadas pela Inteligência Artificial às vésperas da entrega.
+- **Liderança Resiliente** - Houve membros que não estavam tendo resultados satisfatórios e acabaram atrapalhando outros integrantes. Dada a minha posição de Scrum Master, foi necessário intervir e dialogar para garantir fluidez e qualidade das entregas.
 
 ## Demonstração do Projeto
 
@@ -196,7 +201,9 @@ Atuei como desenvolvedor fullstack no projeto Alfalog, participando ativamente d
 | **Scrum + Metodologias Ágeis** | Planejamento e acompanhamento de sprints | Avançado |
 
 ## Soft Skills  
-O projeto exigiu grande resiliência e disciplina, pois precisei dominar conceitos complexos que eram totalmente novos para mim na época, como a manipulação de grandes volumes de dados e a lógica por trás dos códigos NCM e fluxos logísticos. Diante da dificuldade inicial em tratar dados tão extensos e dispersos sem comprometer o desempenho do sistema, mantive o foco nos estudos extra-classe, testando diferentes abordagens de limpeza e otimização de queries até alcançar o resultado esperado. Essa dedicação para superar a curva de aprendizado sob pressão foi fundamental para entregar uma ferramenta de pesquisa funcional e garantir a consistência das informações apresentadas nos dashboards.
+- **Disciplina Adaptativa** - Estabeleci uma rotina rígida de estudos extra-classe para dominar conceitos complexos e totalmente novos sobre logística internacional e regras aduaneiras.
+- **Resiliência Técnica** - Me deparei com tarefas técnicas que, a princípio, eu não sabia fazer e estava fracassando diversas vezes, sendo necessário resiliência para não desistir e aprender a resolver o problema.
+- **Foco em Resultados** - Transformei desafios conceituais em soluções práticas de tratamento de dados, garantindo dashboards estáveis e consistentes para o usuário final.
 
 ## Demonstração do Projeto
 
@@ -246,7 +253,10 @@ Atuei no desenvolvimento do ClassiPy com foco na estruturação do backend e na 
 | **Scrum + Metodologias Ágeis** | Planejamento e acompanhamento de sprints | Avançado |
 
 ## 💬 Soft Skills  
-Esse projeto exigiu bastante disciplina e resiliência, pois lidar com regras de validação estritas e com a formatação precisa de arquivos Excel via código foi um desafio técnico complexo para o meu nível de conhecimento na época. Diante de erros iniciais na organização das colunas e na consistência dos dados tratados, precisei manter o foco, estudar a fundo a documentação das bibliotecas de backend e realizar múltiplos testes de mesa. Essa persistência para entender a lógica de persistência e exportação de dados foi crucial para entregar um sistema seguro e eficaz.
+- **Atenção aos Detalhes** - Realizei análises minuciosas de estrutura de dados para assegurar que a formatação do arquivo Excel final estivesse idêntica às exigências estritas do fisco.
+- **Pensamento Analítico** - Conduzi múltiplos testes de mesa e estudei a documentação de bibliotecas de back-end para mapear e corrigir inconsistências na persistência de dados extraídos por IA.
+- **Autonomia e Proatividade** - Busquei soluções técnicas de ponta a ponta para estruturar rotas complexas de CRUD, garantindo a integridade e segurança do banco de dados relacional.
+- **Trabalho em equipe** - Houve uma grande dificuldade da equipe em entender completamente qual era o problema do cliente e a solução esperada, sendo necessário realizar inúmeras reuniões e conversas pessoais para conseguirmos entregar um projeto de qualidade.
 
 ## Demonstração do Projeto
 
