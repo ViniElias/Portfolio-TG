@@ -1,6 +1,6 @@
 # 👨‍💻 Vinicius Elias Carvalho Ribeiro
 
-Sou Técnico de Informática formado pelo Colégio Joseense e, atualmente, estou no 5º semestre do curso de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos – Prof. Jessen Vidal. Escolhi a FATEC motivado por sua excelente reputação acadêmica e forte alinhamento com as demandas do mercado, enxergando na instituição a base ideal para consolidar minha carreira na área de tecnologia e inovação. Tenho profundo interesse em programação voltada para o ecossistema de backend e na área de análise de dados, setores nos quais venho aprimorando minhas competências técnicas com tecnologias como Python, TypeScript, React, Node.js, bancos de dados relacionais e não relacionais, além do Pacote Office e PowerBI.
+Sou Técnico de Informática formado pelo Colégio Joseense e, atualmente, estou no 6º semestre do curso de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos – Prof. Jessen Vidal. Escolhi a FATEC motivado por sua excelente reputação acadêmica e forte alinhamento com as demandas do mercado, enxergando na instituição a base ideal para consolidar minha carreira na área de tecnologia e inovação. Tenho profundo interesse em programação voltada para o ecossistema de backend e na área de análise de dados, setores nos quais venho aprimorando minhas competências técnicas com tecnologias como Python, Java, TypeScript, React, React Native, Vue.js, Node.js, Spring Boot, bancos de dados relacionais e não relacionais, além do Pacote Office e PowerBI.
 
 No momento, não possuo experiência prévia em estágio profissional, por isso sigo em busca ativa por oportunidades no mercado de trabalho. Tenho utilizado minha trajetória acadêmica para canalizar esse objetivo, transformando os desafios dos projetos integradores em cenários reais para o desenvolvimento de competências em gestão de equipes, liderança de projetos, arquitetura de software, comunicação corporativa e resolução de conflitos.
 
@@ -28,6 +28,8 @@ São José dos Campos, SP
 
 ### Frontend
 - React
+- React Native
+- Vue.js
 - HTML
 - CSS
 - Tailwind
@@ -36,6 +38,7 @@ São José dos Campos, SP
 
 ### Backend
 - Node.js
+- Spring Boot
 - Flask
 - FastAPI
 - Swagger
@@ -267,3 +270,101 @@ Atuei no desenvolvimento do ClassiPy com foco na estruturação do backend e na 
 <div style="display: flex; gap: 10px; margin-bottom: 10px; justify-content: center">
   <img src="./docs/gifSprint3.gif" alt="Home" width="65%">
 </div>
+
+
+---
+
+## 📱 ProDesk - 2026 - 1º Semestre  
+
+## Empresa Parceira  
+O projeto foi desenvolvido em parceria com a **Pro4tech**, empresa de tecnologia especializada em consultoria, engenharia de software e suporte corporativo de TI. A parceira atuou como cliente estratégica ao propor o desafio de criar uma solução mobile voltada para otimizar, estruturar e gerenciar os fluxos de atendimento técnico de TI.
+
+## Problema  
+Empresas que prestam serviços de suporte técnico enfrentam gargalos recorrentes na organização e triagem de chamados. A ausência de um canal centralizado e de triagem automatizada faz com que solicitações cheguem sem classificação prévia, gerando lentidão no atendimento e sobrecarga nas equipes de suporte. Além disso, a falta de um fluxo padronizado para escalonamento entre níveis técnicos dificulta o direcionamento ágil e o acompanhamento de demandas complexas.
+
+## Solução  
+Para solucionar esse cenário, a equipe desenvolveu o **ProDesk**, uma plataforma mobile de Help Desk voltada à centralização e agilidade no atendimento de serviços de TI. Construído em React Native com backend em Node.js sob a Clean Architecture, o sistema permite que clientes abram chamados com triagem automatizada, acompanhem o status em tempo real e interajam com a equipe técnica via chat integrado com WebSockets. A solução conta ainda com uma base de FAQ para autoatendimento de dúvidas comuns, escalonamento hierárquico entre níveis de suporte e painel para gestão de categorias e métricas operacionais.
+
+## 🔗 Repositório  
+[ProDesk (Bug Busters)](https://github.com/Bug-Busters-F/ProDesk)
+
+## Tecnologias Utilizadas  
+- **React Native + TypeScript** – Desenvolvimento da interface mobile multiplataforma (Android) com navegação fluida e componentes estilizados.
+- **Node.js + NestJS + TypeScript** – Estruturação do motor do backend com arquitetura limpa (Clean Architecture), use cases, DTOs e separação em camadas.
+- **Socket.IO (WebSockets)** – Comunicação bidirecional síncrona e em tempo real para o chat interativo dentro de cada chamado.
+- **MongoDB** – Banco de dados NoSQL utilizado para armazenamento flexível de chamados, usuários, histórico de mensagens e registros de escalonamento.
+- **Docker** – Conteinerização dos serviços e do banco de dados para garantir uniformidade entre os ambientes de desenvolvimento.
+- **Swagger** – Documentação interativa dos endpoints da API REST, facilitando a integração entre as camadas de frontend e backend.
+- **Figma** – Mapeamento da experiência de usuário (UI/UX) e prototipagem de alta fidelidade dos fluxos mobile.
+
+## Contribuições Pessoais  
+Atuei como **Product Owner (PO)** e desenvolvedor backend no projeto ProDesk. Na gestão de produto, fui o responsável pela interface direta com os clientes, refinando requisitos de negócio, criando histórias de usuário e priorizando o Product Backlog a cada sprint. Na parte técnica, implementei a mensageria em tempo real via WebSockets (Socket.IO) para o chat dos chamados e desenvolvi o módulo de FAQ sob a Clean Architecture. Também estruturei a lógica de níveis de suporte e o fluxo de escalonamento hierárquico de chamados, além de apoiar na configuração de build do APK do aplicativo.
+
+## Hard Skills  
+
+| Habilidade | Descrição | Nível de Proficiência |
+|-------------|------------|-----------------------|
+| **Node.js / TypeScript (NestJS)** | Desenvolvimento backend com Clean Architecture, Use Cases, DTOs e Mappers | Avançado |
+| **WebSockets (Socket.IO)** | Implementação de gateways de mensageria síncrona e chat em tempo real | Intermediário |
+| **MongoDB** | Modelagem de schemas e persistência de dados em banco NoSQL | Intermediário |
+| **Gestão de Produto (Product Owner)** | Levantamento de requisitos, gestão de backlog e facilitação de sprints | Avançado |
+| **React Native** | Integração com APIs, configuração de ambiente mobile e build de APK | Intermediário |
+| **Docker** | Conteinerização de serviços e ambientes de desenvolvimento | Intermediário |
+
+## Soft Skills  
+- **Negociação com Stakeholders** - Atuando como Product Owner, liderei os alinhamentos estratégicos com os pontos focais da Pro4tech, convertendo requisitos de negócio em entregas técnicas incrementais e gerenciando as expectativas de escopo com transparência.
+- **Pensamento Sistêmico** - Constatei a necessidade de estruturar o chat em tempo real e o escalonamento de tickets de modo que as mensagens ficassem atreladas ao ciclo de vida do chamado, garantindo integridade de histórico e rastreabilidade para auditoria.
+- **Comunicação e Articulação de Equipe** - Facilitei o diálogo diário entre os desenvolvedores mobile e backend, alinhando antecipadamente contratos de API e modelos de dados para evitar retrabalho e dependências bloqueantes nas sprints.
+- **Orientação a Resultados** - Identifiquei a importância de validar a aplicação em dispositivos físicos e atuei proativamente na elaboração dos scripts e documentação para o build do APK, permitindo testes práticos pelo cliente antes da entrega final.
+
+## Demonstração do Projeto
+
+https://github.com/user-attachments/assets/424b82d2-9031-4275-9c45-eb24a50c8a95
+
+---
+
+## 💼 ComissionAI - 2026 - 2º Semestre  
+
+## Empresa Parceira  
+O projeto foi concebido em cooperação com a **Dom Rock**, empresa especialista em inteligência de dados, analytics e soluções de automação para grandes corporações. A parceira atuou como cliente de negócios ao apresentar o desafio de solucionar a vulnerabilidade, ineficiência e ausência de conformidade na apuração manual de comissões de vendas.
+
+## Problema  
+A apuração e gestão de comissões de vendas frequentemente depende de planilhas manuais e descentralizadas, gerando sérios riscos operacionais e financeiros. A falta de consistência temporal pode atribuir vendas a colaboradores fora de sua vigência contratual, criando passivos trabalhistas. Além disso, a ausência de registros auditáveis impede comprovar a origem exata das taxas aplicadas, enquanto a incapacidade de simular previamente o impacto de novas campanhas resulta em frequentes estouros do teto orçamentário.
+
+## Solução  
+Como resposta a esse desafio, a equipe desenvolveu o **ComissionAI**, uma plataforma corporativa para automação, governança e simulação de regras de comissionamento de vendas. Estruturada com frontend em Vue, backend em Java com Spring Boot e serviço de IA em Python, a aplicação realiza a ingestão de bases de RH, vendas e taxas via Spring Batch com checagem de integridade. O motor calcula comissões de forma determinística, segregando impedimentos contratuais e gravando logs imutáveis de auditoria. A ferramenta conta ainda com simulação em sandbox para previsão de impacto orçamentário, homologação de campanhas e inteligência artificial para criação de regras em linguagem natural.
+
+## 🔗 Repositório  
+[ComissionAI (Bug Busters)](https://github.com/Bug-Busters-F/ComissionAI)
+
+## Tecnologias Utilizadas  
+- **Java + Spring Boot** – Construção do backend corporativo, regras determinísticas de negócio, segurança transacional e endpoints REST.
+- **Spring Batch** – Ingestão e processamento massivo em lotes (chunks) de grandes volumes de planilhas de vendas e registros de RH.
+- **PostgreSQL + Flyway** – Banco de dados relacional robusto com migrations versionadas, constraints estritas e tabelas de logs imutáveis de cálculo.
+- **Vue + Vite + Tailwind CSS** – Desenvolvimento do frontend reativo e intuitivo com gerenciamento de estado via Pinia e design system responsivo.
+- **Python + FastAPI + LangChain** – Microsserviço de Inteligência Artificial com arquitetura de agentes cognitivos, tool calling e síntese de código auditável (XAI).
+- **Docker** – Conteinerização de todos os serviços (frontend, backend, serviço de IA e PostgreSQL) para orquestração simplificada do ambiente.
+
+## Contribuições Pessoais  
+Atuei como **Desenvolvedor Backend** no ComissionAI, participando ativamente da concepção e estruturação da arquitetura em Spring Boot. Fui responsável pela configuração inicial do backend, mapeamento de entidades e criação de migrations no Flyway. Implementei o sistema de logs imutáveis de cálculo para fins de auditoria, travas de integridade contra uploads repetidos via hash e o gerenciamento transacional de campanhas com regras de faixas de valor e bonificações. Também desenvolvi a validação de cobertura contratual, endpoints de consulta para as ferramentas do agente de IA e rotas seguras de exclusão de dados.
+
+## Hard Skills  
+
+| Habilidade | Descrição | Nível de Proficiência |
+|-------------|------------|-----------------------|
+| **Java + Spring Boot** | Desenvolvimento corporativo, transacionalidade, arquitetura REST e testes de integração | Avançado |
+| **Spring Batch** | Processamento massivo e ingestão de arquivos em lote com alta performance | Intermediário |
+| **PostgreSQL + Flyway** | Modelagem relacional, constraints de integridade, logs imutáveis e versionamento de banco | Avançado |
+| **Engenharia de Dados e Validações** | Tratamento de dados, prevenção de duplicidades via hash e auditoria de vínculos | Avançado |
+| **Testes Automatizados (JUnit / Mockito)** | Criação de testes unitários e de integração complexos para motores de cálculo | Avançado |
+| **Integração com Microsserviços e IA** | Criação de endpoints especializados para consumo via Tool Calling por agentes inteligentes | Intermediário |
+
+## Soft Skills  
+- **Atenção aos Detalhes e Raciocínio Analítico** - Como o projeto envolvia cálculos financeiros e implicações trabalhistas diretas, atuei com rigor minucioso na precisão dos cálculos e no isolamento de impedimentos por data de admissão, eliminando qualquer margem para passivos jurídicos.
+- **Visão Arquitetural e Escalabilidade** - Projetei a separação clara entre a camada de ingestão, o motor de cálculo determinístico e as rotas de suporte à IA, garantindo que o sistema mantivesse alta performance e integridade mesmo com milhares de registros.
+- **Colaboração Interdisciplinar** - Trabalhei em estreita sinergia com os desenvolvedores responsáveis pelo agente de IA e pela interface web, desenhando contratos de API claros e eliminando atritos na integração dos fluxos ponta a ponta.
+- **Resiliência e Solução de Problemas Complexos** - Enfrentei desafios técnicos profundos ao estruturar a validação de dependências para exclusão de lotes e a gestão de concorrência em competências, pesquisando e implementando soluções transacionais robustas para garantir que o banco nunca ficasse em estado inconsistente.
+
+## Demonstração do Projeto
+
+https://github.com/user-attachments/assets/f865b432-0b44-4ec9-8c4a-7a9cbc3a5887
