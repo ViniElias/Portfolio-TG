@@ -1,6 +1,6 @@
 # 👨‍💻 Vinicius Elias Carvalho Ribeiro
 
-Sou Técnico de Informática formado pelo Colégio Joseense e, atualmente, estou no 6º semestre do curso de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos – Prof. Jessen Vidal. Escolhi a FATEC motivado por sua excelente reputação acadêmica e forte alinhamento com as demandas do mercado, enxergando na instituição a base ideal para consolidar minha carreira na área de tecnologia e inovação. Tenho profundo interesse em programação voltada para o ecossistema de backend e na área de análise de dados, setores nos quais venho aprimorando minhas competências técnicas com tecnologias como Python, Java, TypeScript, React, React Native, Vue.js, Node.js, Spring Boot, bancos de dados relacionais e não relacionais, além do Pacote Office e PowerBI.
+Sou Técnico de Informática formado pelo Colégio Joseense e, atualmente, estou no 6º semestre do curso de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos – Prof. Jessen Vidal. Escolhi a FATEC motivado por sua excelente reputação acadêmica e forte alinhamento com as demandas do mercado, enxergando na instituição a base ideal para consolidar minha carreira na área de tecnologia e inovação. Tenho profundo interesse em programação voltada para o ecossistema de backend e na área de análise de dados, setores nos quais venho aprimorando minhas competências técnicas com tecnologias como Python, Java, TypeScript, React, React Native, Vue.js, Node.js, Spring Boot, bancos de dados relacionais e não relacionais, além de ferramentas como PowerBI e práticas de ETL.
 
 No momento, não possuo experiência prévia em estágio profissional, por isso sigo em busca ativa por oportunidades no mercado de trabalho. Tenho utilizado minha trajetória acadêmica para canalizar esse objetivo, transformando os desafios dos projetos integradores em cenários reais para o desenvolvimento de competências em gestão de equipes, liderança de projetos, arquitetura de software, comunicação corporativa e resolução de conflitos.
 
@@ -43,6 +43,11 @@ São José dos Campos, SP
 - FastAPI
 - Swagger
 
+### Análise de Dados
+- PowerBI
+- Modelagem e Tratamento de Dados
+- Processos de ETL
+
 ### Banco de dados
 - MySQL
 - PostgreSQL
@@ -57,8 +62,6 @@ São José dos Campos, SP
 - Docker
 
 ### Outros 
-- Pacote Office
-- PowerBI
 - Inglês avançado
 - Metodologia SCRUM
 
@@ -175,7 +178,7 @@ O projeto foi concebido em colaboração com o professor **Marcus Nascimento, co
 Profissionais de economia, analistas de mercado e gestores governamentais enfrentam severos obstáculos para monitorar o comércio de importações e exportações no Brasil devido à extrema fragmentação dos bancos de dados governamentais abertos. A alta dispersão desses registros brutos impede uma leitura ágil do ecossistema mercadológico, ocultando gargalos, estagnações regionais ou tendências de crescimento nos estados e municípios, o que inviabiliza tomadas de decisão ágeis e eficientes baseadas em dados consolidados.
 
 ## Solução Entregue  
-A equipe desenvolveu a **Alfalog**, uma plataforma interativa de acompanhamento e análise de desempenho no comércio exterior. A ferramenta permite que os tomadores de decisão filtrem informações estratégicas, identifiquem padrões logísticos e visualizem resultados em dashboards interativos baseados nos dados abertos do MDIC. O sistema foi desenvolvido com uma arquitetura robusta e banco de dados relacional, garantindo a qualidade, limpeza e disponibilidade das informações para análise. Entre as principais funcionalidades estão: a visualização de estatísticas detalhadas da balança comercial por estado, filtros avançados por período histórico (2014-2024), setor econômico, código NCM e meios de transporte, além da geração de gráficos, mapas interativos e recursos para exportar dados brutos para ferramentas externas.
+A equipe desenvolveu a **Alfalog**, uma plataforma interativa de acompanhamento e análise de desempenho no comércio exterior. A ferramenta permite que os tomadores de decisão filtrem informações estratégicas, identifiquem padrões logísticos e visualizem resultados em dashboards interativos baseados nos dados abertos do **MDIC (Ministério do Desenvolvimento, Indústria, Comércio e Serviços)**. O sistema foi desenvolvido com uma arquitetura robusta e banco de dados relacional, garantindo a qualidade, limpeza e disponibilidade das informações para análise. Entre as principais funcionalidades estão: a visualização de estatísticas detalhadas da balança comercial por estado, filtros avançados por período histórico (2014-2024), setor econômico, código **NCM (Nomenclatura Comum do Mercosul)** e meios de transporte, além da geração de gráficos, mapas interativos e recursos para exportar dados brutos para ferramentas externas.
 
 ## 🔗 Repositório
 [Alfalog (Bug Busters)](https://github.com/Bug-Busters-F/Alfalog)
@@ -226,7 +229,7 @@ Atuei como desenvolvedor fullstack no projeto Alfalog, participando ativamente d
 O software foi projetado e desenvolvido em conformidade com as demandas da **TecSys**, empresa atuante no setor logístico e aduaneiro que buscava soluções de transformação digital para rotinas analíticas tributárias complexas.
 
 ## Problema  
-A montagem manual de minutas e registros de importações para insumos da indústria eletrônica é altamente burocrática e vulnerável a falhas operacionais humanas. Vincular corretamente o Part-Number de cada peça aos seus respectivos fabricantes, origens geográficas, endereços e nomenclaturas da classificação fiscal (NCM) exige exaustiva checagem manual. Pequenas divergências, descrições vagas ou omissões nesses campos frequentemente provocam retenções pela Receita Federal, acarretando aplicação de pesadas sanções financeiras e atrasos na cadeia produtiva.
+A montagem manual de minutas e registros de importações para insumos da indústria eletrônica é altamente burocrática e vulnerável a falhas operacionais humanas. Vincular corretamente o Part-Number de cada peça aos seus respectivos fabricantes, origens geográficas, endereços e nomenclaturas da classificação fiscal através do código **NCM (Nomenclatura Comum do Mercosul)** exige exaustiva checagem manual. Pequenas divergências, descrições vagas ou omissões nesses campos frequentemente provocam retenções pela Receita Federal, acarretando aplicação de pesadas sanções financeiras e atrasos na cadeia produtiva.
 
 ## Solução
 Para solucionar esse problema, a equipe projetou o **ClassiPy - Classificação Inteligente de Produtos**, um ecossistema web voltado a automatizar e assegurar conformidade na instrução de registros aduaneiros. A plataforma permite a leitura inteligente de ordens de compra emitidas em PDF por meio de agentes inteligentes. O sistema extrai as identificações de peças (Part-Numbers) e executa um cruzamento automatizado para propor a descrição detalhada do material, o código NCM correspondente e dados cadastrais válidos do fabricante. Os dados consolidados passam por um fluxo de validação interativa e o sistema exporta automaticamente um arquivo final em formato de planilha Excel, aderente aos padrões normativos da Receita Federal.
